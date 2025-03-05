@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Amine Toumi</h1>
 <h3 align="center">software engineering student</h3>
-<img align="right" src="https://avatars.githubusercontent.com/u/12345678?v=4" alt="coding" width="400">
+<img align="right" src="https://png.pngtree.com/png-vector/20231023/ourmid/pngtree-professional-cloud-engineer-3d-illustration-png-image_10313155.png" alt="cloud engineer" width="400">
 
 
 
