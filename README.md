@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Amine Toumi</h1>
 <h3 align="center">software engineering student</h3>
-<img align="right" src="https://pngtree.com/freepng/professional-cloud-engineer-3d-illustration_13398941.html" alt="coding" width="400">
+<img align="right" src="https://avatars.githubusercontent.com/u/12345678?v=4" alt="coding" width="400">
+
 
 
 - 🔭 I’m currently working on **Cloud Infrastructure Automation**
